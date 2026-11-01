@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas>=2.2
+numpy
+plotly
+openpyxl
+xlrd
+anthropic
